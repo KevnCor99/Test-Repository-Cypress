@@ -1,0 +1,22 @@
+{
+  "name": "test-repository-cypress",
+  "version": "1.0.0",
+  "description": "Testing workflows for automated QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevnCor99/Test-Repository-Cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevnCor99/Test-Repository-Cypress/issues"
+  },
+  "homepage": "https://github.com/KevnCor99/Test-Repository-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
